@@ -52,5 +52,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Thank you for exploring the Library Management System project. Whether you're looking to manage a small library or enhance your Python skills, we hope this project serves as a valuable resource and inspiration. If you have any questions, feedback, or suggestions, please feel free to reach out or contribute.
 
 ---
-
-Feel free to adjust this README as needed and add any additional information that might be relevant to your project or audience.
